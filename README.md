@@ -3,7 +3,7 @@
 Add kolikons repository to Helm repos:
 
 ```bash
-helm repo add kolikons https://charts.kolikons.io
+helm repo add kolikons https://kolikons.github.io/charts/
 ```
 
 ## Install label-watch
