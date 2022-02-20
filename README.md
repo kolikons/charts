@@ -1,4 +1,4 @@
-# charts# kolikons Helm repository
+# kolikons Helm repository
 
 Add kolikons repository to Helm repos:
 
