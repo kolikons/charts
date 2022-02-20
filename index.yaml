@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  label-watch:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-02-20T17:36:57.979894955Z"
+    description: A Helm chart for label-watch checks a specific label on worker node
+      then create an label
+    digest: f3c1420bd888c69d88091d0e32e2ceda3073dabebdfb6b5bd32d0f485b36cea3
+    name: label-watch
+    sources:
+    - https://github.com/kolikons/label-watch
+    type: application
+    urls:
+    - https://charts.kolikons.io/label-watch-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-02-20T17:36:57.979252347Z"
